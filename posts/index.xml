@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Bob,home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Thu, 21 May 2020 14:03:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 14:12:29 +0800</lastBuildDate>
     
 	<atom:link href="https://righthand5.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work</title>
+      <link>https://righthand5.github.io/posts/work/</link>
+      <pubDate>Thu, 21 May 2020 14:12:29 +0800</pubDate>
+      
+      <guid>https://righthand5.github.io/posts/work/</guid>
+      <description>如何用Hugo搭建一个blog 安装配置  安装Hugo放到D:/Softwera/hugo文件夹中 将路径添加至文件夹中 运行hugo -version看是否安装成功  创建onelog.md文件  在重新创一个文件夹比如D:\XWD 在这个文件中经行Cmder操作：  Computer@DESKTOP-17PLQTN ~ λ hugo version Computer@DESKTOP-17PLQTN ~ λ cd /d/XWD Computer@DESKTOP-17PLQTN /d/XWD λ hugo version Z Computer@DESKTOP-17PLQTN /d/XWD λ hugo new site righthand5.github.io Computer@DESKTOP-17PLQTN /d/XWD λ rm -rf righthand5.github.io/ Computer@DESKTOP-17PLQTN /d/XWD λ hugo new site righthand5.github.io-creator Computer@DESKTOP-17PLQTN /d/XWD/righthand5.github.io-creater λ git init Initialized empty Git repository in D:/XWD/righthand5.github.io-creater/.git/ Computer@DESKTOP-17PLQTN /d/XWD/righthand5.github.io-creater (master) λ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke git submodule add https://git h Cloning into &#39;D:/XWD/righthand5.</description>
+    </item>
     
     <item>
       <title>Secondlog</title>
